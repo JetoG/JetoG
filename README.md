@@ -7,7 +7,7 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/ViniEddu">
+  <a href="https://github.com/JetoG">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JetoG&show_icons=true&icon_color=blue&border_color=476AE1&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JetoG&layout=compact&border_color=476AE1&langs_count=7&theme=dark"/>
 </div>
