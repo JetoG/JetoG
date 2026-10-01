@@ -1,0 +1,31 @@
+name: Atualizar cards do README
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # todo dia às 03:00 (horário de Brasília)
+  workflow_dispatch: # botão "Run workflow" na aba Actions
+  push:
+    paths:
+      - ".github/scripts/**"
+      - ".github/workflows/cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar cards
+        run: python3 .github/scripts/gerar_cards.py
+        env:
+          GH_TOKEN: ${{ secrets.CARDS_TOKEN }}
+
+      - name: Salvar cards no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --cached --quiet || (git commit -m "Atualiza cards do README" && git push)
