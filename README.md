@@ -35,7 +35,7 @@
 | 🤖 **JitaBOT** | Bot de Discord em Python (discord.py) para o meu servidor: contador de membros, limpeza de mensagens e relatório de erros. Sendo modernizado para slash commands e hospedagem 24/7. |
 | 💰 **WalletPI** | Gestão financeira pessoal em Django: receitas e despesas por categoria, metas, carteira de investimentos com importação de notas de corretagem e exportação em PDF/Excel. |
 | 🎒 **BagBreaker** | Jogo clicker/idle em GameMaker. |
-| 📚 **JetLibraryGM** | Minha biblioteca pessoal de funções reutilizáveis para GameMaker. |
+| 📚&nbsp;**JetLibraryGM** | Minha biblioteca pessoal de funções reutilizáveis para GameMaker. |
 
 ##
 
