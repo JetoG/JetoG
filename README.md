@@ -19,7 +19,7 @@
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/sequencia-dark.svg">
-    <img alt="Sequência de contribuições" src="assets/sequencia-light.svg" width="816">
+    <img alt="Sequência de contribuições" src="assets/sequencia-light.svg" width="804">
   </picture>
   <br>
   <sub>Os números incluem repositórios privados e são atualizados todo dia.</sub>
@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://jetodev.itch.io/knights-fall"><img src="https://img.itch.zone/aW1nLzIzNDUyMjU4LnBuZw==/315x250%23c/XJM4b6.png" width="220" alt="Knight's Fall"><br><b>Knight's Fall</b></a><br><sub>Plataforma · Protótipo</sub></td>
-    <td align="center"><a href="https://jetodev.itch.io/a-vingaa-de-krampus-proteja-o-natal"><img src="https://img.itch.zone/aW1nLzE0NDM2NjAxLnBuZw==/315x250%23c/1mBIoX.png" width="220" alt="A Vingança de Krampus"><br><b>A Vingança de Krampus</b></a><br><sub>Proteja o Natal</sub></td>
+    <td align="center"><a href="https://jetodev.itch.io/a-vinganca-de-krampus-proteja-o-natal"><img src="https://img.itch.zone/aW1nLzE0NDM2NjAxLnBuZw==/315x250%23c/1mBIoX.png" width="220" alt="A Vingança de Krampus"><br><b>A Vingança de Krampus</b></a><br><sub>Proteja o Natal</sub></td>
     <td align="center"><a href="https://jetodev.itch.io/"><img src="https://img.shields.io/badge/Ver_todos_no-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Ver todos no itch.io"></a></td>
   </tr>
 </table>
