@@ -3,15 +3,25 @@
 
 - 💻 Desenvolvedor Full Stack — Python e Django
 - 🎮 Desenvolvedor de jogos indie em GameMaker
-- 🤓 Aprendendo sobre Django, Python, Javascript, GameMaker!
+- 🌌 Criando shaders para Minecraft em GLSL
+- 🤖 Construindo ferramentas que deixam agentes de IA trabalharem junto comigo
+- 📺 Programando ao vivo no YouTube e na Twitch
 
 ##
 
-<div align="center">
+<!--
+  O card "Resumo no GitHub" vem do github-stats-extended e só conta os repositórios privados
+  enquanto o login com "GitHub Private Access" estiver ativo em https://github-stats-extended.vercel.app/frontend
+  Se ele voltar a mostrar só os números públicos (ex.: 34 commits, rank C), troque a linha <img alt="Resumo no GitHub" ...>
+  abaixo por este bloco, que usa o card gerado pela Action (.github/workflows/cards.yml):
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/resumo-dark.svg">
     <img alt="Resumo no GitHub" src="assets/resumo-light.svg" width="400">
   </picture>
+-->
+<div align="center">
+  <img alt="Resumo no GitHub" src="https://github-stats-extended.vercel.app/api?username=JetoG&amp;custom_title=Resumo%20no%20GitHub&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;show=prs_merged&amp;card_width=489&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;title_color=476AE1&amp;icon_color=476AE1&amp;ring_color=476AE1&amp;border_color=476AE1&amp;locale=pt-br&amp;cache_seconds=14400" width="400">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/linguagens-dark.svg">
     <img alt="Linguagens mais usadas" src="assets/linguagens-light.svg" width="400">
@@ -27,14 +37,28 @@
 
 ##
 
+### ⭐ Em destaque
+<div align="center">
+  <a href="https://github.com/JetoG/Jet-DnD"><img alt="Jet DnD" src="https://github-stats-extended.vercel.app/api/pin?username=JetoG&amp;repo=Jet-DnD&amp;description_lines_count=2&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;title_color=476AE1&amp;icon_color=476AE1&amp;ring_color=476AE1&amp;border_color=476AE1&amp;locale=pt-br" width="400"></a>
+  <a href="https://github.com/JetoG/PacDimensional-NoneJam12"><img alt="PacDimensional" src="https://github-stats-extended.vercel.app/api/pin?username=JetoG&amp;repo=PacDimensional-NoneJam12&amp;description_lines_count=2&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;title_color=476AE1&amp;icon_color=476AE1&amp;ring_color=476AE1&amp;border_color=476AE1&amp;locale=pt-br" width="400"></a>
+  <br>
+  <a href="https://jetog.github.io/Jet-DnD/"><img src="https://img.shields.io/badge/▶_Demonstração_do_Jet_DnD-476AE1?style=for-the-badge" alt="Demonstração ao vivo do Jet DnD"></a>
+</div>
+
+##
+
 ### 🛠️ Projetos em andamento
 > 🔒 Repositórios privados
 
 | Projeto | Sobre |
 |---|---|
-| 🤖 **JitaBOT** | Bot de Discord em Python (discord.py) para o meu servidor: contador de membros, limpeza de mensagens e relatório de erros. Sendo modernizado para slash commands e hospedagem 24/7. |
+| 🌌 **Jetlight** | Shader pack para Minecraft Java (Iris) com motor de renderização próprio, escrito do zero: iluminação deferida, sombras do sol com vidro colorido e um céu com identidade própria — estrelas, aurora, nebulosa e eventos celestes como chuva de meteoros e cometas. Funciona com Distant Horizons e Voxy. |
+| 👻 **GMGhost** | Servidor MCP em Python + ponte em GML que deixa um agente de IA abrir, ver, jogar e testar um jogo do GameMaker rodando — um "Playwright" para jogos. |
 | 💰 **WalletPI** | Gestão financeira pessoal em Django: receitas e despesas por categoria, metas, carteira de investimentos com importação de notas de corretagem e exportação em PDF/Excel. |
-| 🎒 **BagBreaker** | Jogo clicker/idle em GameMaker. |
+| 🤖 **JitaBOT** | Bot do **Jet Hub**, meu servidor de Discord para quem faz jogos. Online 24h, com slash commands e formulários: cartões de projeto e devlogs, sorteio de ideias, pomodoro em call, lembretes, conversor de cores e paletas (23 formatos), tickets, sorteios, eventos, aniversários, avisos de vídeo e live do YouTube e moderação. |
+| 📺 **Overlay 2.0** | Overlay das minhas lives para o OBS: telas de início, pausa e encerramento, molduras de gameplay e programação, com painel de controle e temas (pixel, neon, terminal). |
+| 🖥️ **TCM JetVersion** | Minha versão do [Ticlin's Claude Monitor](https://github.com/LucasM-Maciel/ticlins-claude-monitor): uma janelinha que acompanha as sessões do Claude Code e avisa com som quando uma precisa de mim, com temas e personagens meus. |
+| 🎒 **BagBreaker** | Jogo clicker/idle em GameMaker, com suporte a vários idiomas. |
 | 📚&nbsp;**JetLibraryGM** | Minha biblioteca pessoal de funções reutilizáveis para GameMaker. |
 
 ##
@@ -66,8 +90,12 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
   <br>
   <img src="https://img.shields.io/badge/GameMaker-71B417?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GameMaker">
+  <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL">
   <img src="https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord.py">
+  <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio">
+  <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
 </div>
 
 ##
