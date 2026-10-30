@@ -21,7 +21,7 @@
   </picture>
 -->
 <div align="center">
-  <img alt="Resumo no GitHub" src="https://github-stats-extended.vercel.app/api?username=JetoG&amp;custom_title=Resumo%20no%20GitHub&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;show=prs_merged&amp;card_width=489&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;title_color=476AE1&amp;icon_color=476AE1&amp;ring_color=476AE1&amp;border_color=476AE1&amp;locale=pt-br&amp;cache_seconds=14400" width="400">
+  <img alt="Resumo no GitHub" src="https://github-stats-extended.vercel.app/api?username=JetoG&amp;custom_title=Resumo%20no%20GitHub&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=percentile&amp;number_format=long&amp;show=prs_merged&amp;card_width=489&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;title_color_light=1f2328&amp;title_color_dark=e6edf3&amp;icon_color=476AE1&amp;ring_color=476AE1&amp;border_color=476AE1&amp;locale=pt-br&amp;cache_seconds=14400" width="400">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/linguagens-dark.svg">
     <img alt="Linguagens mais usadas" src="assets/linguagens-light.svg" width="400">
